@@ -9,8 +9,6 @@
 
 using namespace std;
 void insertArray(int l, int arr[100]) {
-	puts("Enter size of array");
-	cin >> l;
 	puts("Enter elements (space separated");
 	int i=0, input;
 	while( i < l )
