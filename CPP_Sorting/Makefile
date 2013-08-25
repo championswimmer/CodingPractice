@@ -1,6 +1,6 @@
 CXXFLAGS =	-O2 -g -Wall -fmessage-length=0
 
-OBJS =		CPP_Sorting.o
+OBJS =		CPP_Sorting.o Array_IO.o
 
 LIBS =
 
