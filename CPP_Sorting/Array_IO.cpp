@@ -17,11 +17,17 @@ void insertArray(int l, int arr[100]) {
 	}
 }
 
-void showArray (int arr[100]) {
+void showArray (int l, int arr[100]) {
 	int i=0;
-	while (arr[i] != '\0')
+	while (i < l)
 		cout << arr[i++] << " ";
 }
 
+void swap (int &a, int &b) {
+	int temp;
+	temp=a;
+	a=b;
+	b=temp;
+}
 
 

@@ -14,9 +14,9 @@ void bubbleSort (int l, int arr[100]) {
 	for (i=l-1; i>0; i--) {
 		for (j=0; j<i; j++) {
 			if (arr[j]>arr[j+1]) {
-				t=arr[j];arr[j]=arr[j+1]; arr[j+1]=t;
+				swap(arr[j], arr[j+1]);
 			}
-			cout << "\n"; showArray(arr);
+			cout << "\n"; showArray(l, arr);
 		}
 	}
 }

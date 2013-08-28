@@ -16,10 +16,10 @@ int main(void) {
 	puts("Enter size of array");
 	cin >> l;
 	insertArray(l, arr);
-	showArray (arr);
-	cout << "\n\n"; bubbleSort(l,arr);
+	showArray (l, arr);
+	cout << "\n\n"; selectionSort(l,arr);
 
-	cout << "\n\n"; showArray(arr);
+	cout << "\n\n"; showArray(l, arr);
 
 	return EXIT_SUCCESS;
 }

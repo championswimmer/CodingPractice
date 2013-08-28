@@ -11,6 +11,7 @@
 #include <stdlib.h>
 
 void bubbleSort (int l, int arr[]);
+void selectionSort (int l, int arr[]);
 
 
 

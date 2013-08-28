@@ -13,7 +13,8 @@
 #include <iostream>
 
 void insertArray(int l, int arr[]);
-void showArray (int arr[]);
+void showArray (int l, int arr[]);
+void swap (int &a, int &b);
 
 
 
