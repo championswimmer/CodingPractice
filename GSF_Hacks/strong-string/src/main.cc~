@@ -1,0 +1,65 @@
+/* -*- Mode: C; indent-tabs-mode: t; c-basic-offset: 4; tab-width: 4 -*-  */
+/*
+ * main.cc
+ * Copyright (C) 2014 Arnav Gupta <championswimmer@championswimmer-Lenovo-Z580>
+ * 
+ * strong-string is free software: you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License as published by the
+ * Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * strong-string is distributed in the hope that it will be useful, but
+ * WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ * See the GNU General Public License for more details.
+ *   abcde
+ * You should have received a copy of the GNU General Public License along
+ * with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int compstr(string ss1, string ss2) {
+	int l1=ss1.length();
+	int l2=ss2.length();
+	for (int i =0; ((i<l1)&&(i<l2)&&(i<2)); i++) {
+		if (ss1[i]<ss2[i]) {
+			return 0;
+		}
+	}
+	return 1;
+}
+int main()
+{
+
+	int len; cin>>len;
+	
+	string s; cin>>s;
+	string r[100]; int p=0;
+	string result="a";
+	int i = 0, j = 0;
+	for (i=0; i<len; i++) {
+		for (j=i; j<len; j++) {
+			r[p]=s.substr(i, ((j-i)+1));
+			p++;
+			//string s2 = s.substr(i, ((j-i)+1));
+			//if (compstr(s2,result) == 1) {
+			//	result = s2;
+			//}
+		}
+	}
+
+	for (i=0; i<p; i++) {
+		if (compstr(r[i],result) == 1) {
+				result = r[i];
+		}
+	}
+	cout<<result;
+	return 0;
+}
+
+
+
