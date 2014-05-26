@@ -43,8 +43,9 @@
 
 | Device | Codename |
 | :----- | :----- |
-| Xperia T | mint |
-| Xperia V | tsubasa|
+| Xperia T | mint \n testing newline |
+| Xperia V | tsubasa
+testingnewline |
 | Xperia Z | yuga |
 | Xperia ZL | odin |
 | Xperia ZR | dogo |
