@@ -43,7 +43,7 @@
 
 | Device | Codename | Not working |
 | :----- | :----- | :----
-| Xperia SP | huashan | <ol><li>MHL<li>OTG</ol>
+| Xperia SP | huashan | <ul> a <li> b <li> c |
 | Xperia T | mint |
 | Xperia V | tsubasa|
 | Xperia Z | yuga |
