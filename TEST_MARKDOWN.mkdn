@@ -1,56 +1,56 @@
 ## ASUS (asus)
 
-| Device | Codename |
-| :----- | :----- |
-|        |        |
+| Device | Codename | Not working | Issues |
+| :----- | :----- | :---- | :----- |
+| NAME | code | <ul> <li> one <li> two | <ul> <li> one <li> two |
 
 ## HTC (htc)
 
-| Device | Codename |
-| :----- | :----- |
-|        |        |
+| Device | Codename | Not working | Issues |
+| :----- | :----- | :---- | :----- |
+| NAME | code | <ul> <li> one <li> two | <ul> <li> one <li> two |
 
 
 ## LG (lge)
 
-| Device | Codename |
-| :----- | :----- |
-|        |        |
+| Device | Codename | Not working | Issues |
+| :----- | :----- | :---- | :----- |
+| NAME | code | <ul> <li> one <li> two | <ul> <li> one <li> two |
 
 
 ## MOTOROLA (motorola)
 
-| Device | Codename |
-| :----- | :----- |
-|        |        |
+| Device | Codename | Not working | Issues |
+| :----- | :----- | :---- | :----- |
+| NAME | code | <ul> <li> one <li> two | <ul> <li> one <li> two |
 
 
 ## OPPO (oppo)
 
-| Device | Codename |
-| :----- | :----- |
-|        |        |
+| Device | Codename | Not working | Issues |
+| :----- | :----- | :---- | :----- |
+| NAME | code | <ul> <li> one <li> two | <ul> <li> one <li> two |
 
 
 ## SAMSUNG (samsung)
 
-| Device | Codename |
-| :----- | :----- |
-|        |        |
+| Device | Codename | Not working | Issues |
+| :----- | :----- | :---- | :----- |
+| NAME | code | <ul> <li> one <li> two | <ul> <li> one <li> two |
 
 
 ## SONY (sony)
 
-| Device | Codename | Not working |
-| :----- | :----- | :----
-| Xperia SP | huashan | <ul> a <li> b <li> c |
+| Device | Codename | Not working | Issues |
+| :----- | :----- | :---- | :----- |
+| Xperia SP | huashan | <ul> <li> MHL | 
 | Xperia T | mint |
-| Xperia V | tsubasa|
+| Xperia V | tsubasa |
 | Xperia Z | yuga |
 | Xperia ZL | odin |
 | Xperia ZR | dogo |
 | Xperia Tablet Z (WiFi) | polluxwindy|
 | Xperia Tablet Z (LTE/3G) | pollux|
-| Xperia Z1 | honami|
+| Xperia Z1 | honami | | <ul> <li> High battery drain |
 | Xperia Z Ultra | togari |
 | Xperia Z1 Compact | amami |
