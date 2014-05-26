@@ -41,10 +41,11 @@
 
 ## SONY (sony)
 
-| Device | Codename |
-| :----- | :----- |
-| Xperia T | mint <pre> <br> </pre> <br> a |
-| Xperia V | tsubasa |
+| Device | Codename | Not working |
+| :----- | :----- | :----
+| Xperia SP | huashan | <ol><li>MHL<li>OTG</ol>
+| Xperia T | mint |
+| Xperia V | tsubasa|
 | Xperia Z | yuga |
 | Xperia ZL | odin |
 | Xperia ZR | dogo |
