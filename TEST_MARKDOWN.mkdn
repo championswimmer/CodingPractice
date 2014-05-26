@@ -1,46 +1,55 @@
 ## ASUS (asus)
 
-| Device           | Codename         |
-| :--------------- | :--------------- |
-|                  |                  |
+| Device | Codename |
+| :----- | :----- |
+|        |        |
 
 ## HTC (htc)
 
-| Device           | Codename         |
-| :--------------- | :--------------- |
-|                  |                  |
+| Device | Codename |
+| :----- | :----- |
+|        |        |
 
 
 ## LG (lge)
 
-| Device           | Codename         |
-| :--------------- | :--------------- |
-|                  |                  |
+| Device | Codename |
+| :----- | :----- |
+|        |        |
 
 
 ## MOTOROLA (motorola)
 
-| Device           | Codename         |
-| :--------------- | :--------------- |
-|                  |                  |
+| Device | Codename |
+| :----- | :----- |
+|        |        |
 
 
 ## OPPO (oppo)
 
-| Device           | Codename         |
-| :--------------- | :--------------- |
-|                  |                  |
+| Device | Codename |
+| :----- | :----- |
+|        |        |
 
 
 ## SAMSUNG (samsung)
 
-| Device           | Codename         |
-| :--------------- | :--------------- |
-|                  |                  |
+| Device | Codename |
+| :----- | :----- |
+|        |        |
 
 
 ## SONY (sony)
 
-| Device           | Codename         |
-| :--------------- | :--------------- |
-|                  |                  |
+| Device | Codename |
+| :----- | :----- |
+| Xperia T | mint |
+| Xperia V | tsubasa|
+| Xperia Z | yuga |
+| Xperia ZL | odin |
+| Xperia ZR | dogo |
+| Xperia Tablet Z (WiFi) | polluxwindy|
+| Xperia Tablet Z (LTE/3G) | pollux|
+| Xperia Z1 | honami|
+| Xperia Z Ultra | togari |
+| Xperia Z1 Compact | amami |
